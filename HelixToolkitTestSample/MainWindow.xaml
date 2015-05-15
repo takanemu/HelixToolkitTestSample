@@ -22,7 +22,7 @@
             <!--  光源  -->
             <helix:SunLight />
 
-            <helix:RectangleVisual3D Width="30" Length="40">
+            <!--<helix:RectangleVisual3D Width="30" Length="40">
                 <helix:RectangleVisual3D.Material>
                     <DiffuseMaterial>
                         <DiffuseMaterial.Brush>
@@ -34,7 +34,7 @@
                         </DiffuseMaterial.Brush>
                     </DiffuseMaterial>
                 </helix:RectangleVisual3D.Material>
-            </helix:RectangleVisual3D>
+            </helix:RectangleVisual3D>-->
         </helix:HelixViewport3D>
     </Grid>
 </Window>
